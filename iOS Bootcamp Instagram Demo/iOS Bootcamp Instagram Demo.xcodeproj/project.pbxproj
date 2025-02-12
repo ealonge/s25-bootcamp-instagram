@@ -15,6 +15,9 @@
 		1BA1E5D52D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E5D42D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITests.swift */; };
 		1BA1E5D72D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E5D62D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITestsLaunchTests.swift */; };
 		1BA1E5E42D53114400D023A2 /* PostView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E5E32D53114400D023A2 /* PostView.swift */; };
+		1BA1E68E2D5C1EE300D023A2 /* TopToolbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E68D2D5C1EE300D023A2 /* TopToolbarView.swift */; };
+		1BA1E6902D5C1F9900D023A2 /* BottomToolbarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E68F2D5C1F9900D023A2 /* BottomToolbarView.swift */; };
+		1BA1E6922D5C20E700D023A2 /* CaptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1BA1E6912D5C20E700D023A2 /* CaptionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +49,9 @@
 		1BA1E5D42D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Bootcamp_Instagram_DemoUITests.swift; sourceTree = "<group>"; };
 		1BA1E5D62D53112900D023A2 /* iOS_Bootcamp_Instagram_DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Bootcamp_Instagram_DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1BA1E5E32D53114400D023A2 /* PostView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostView.swift; sourceTree = "<group>"; };
+		1BA1E68D2D5C1EE300D023A2 /* TopToolbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopToolbarView.swift; sourceTree = "<group>"; };
+		1BA1E68F2D5C1F9900D023A2 /* BottomToolbarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottomToolbarView.swift; sourceTree = "<group>"; };
+		1BA1E6912D5C20E700D023A2 /* CaptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +105,9 @@
 				1BA1E5B92D53112800D023A2 /* iOS_Bootcamp_Instagram_DemoApp.swift */,
 				1BA1E5BB2D53112800D023A2 /* ContentView.swift */,
 				1BA1E5E32D53114400D023A2 /* PostView.swift */,
+				1BA1E68D2D5C1EE300D023A2 /* TopToolbarView.swift */,
+				1BA1E68F2D5C1F9900D023A2 /* BottomToolbarView.swift */,
+				1BA1E6912D5C20E700D023A2 /* CaptionView.swift */,
 				1BA1E5BD2D53112900D023A2 /* Assets.xcassets */,
 				1BA1E5BF2D53112900D023A2 /* Preview Content */,
 			);
@@ -260,9 +269,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1BA1E6902D5C1F9900D023A2 /* BottomToolbarView.swift in Sources */,
+				1BA1E68E2D5C1EE300D023A2 /* TopToolbarView.swift in Sources */,
 				1BA1E5BC2D53112800D023A2 /* ContentView.swift in Sources */,
 				1BA1E5E42D53114400D023A2 /* PostView.swift in Sources */,
 				1BA1E5BA2D53112800D023A2 /* iOS_Bootcamp_Instagram_DemoApp.swift in Sources */,
+				1BA1E6922D5C20E700D023A2 /* CaptionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
