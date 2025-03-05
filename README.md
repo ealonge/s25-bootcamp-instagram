@@ -16,5 +16,5 @@ Key Features
 - Styled captions and like count simulation
 
 Screenshots:
-<img width="1470" alt="Screenshot 2025-02-04 at 10 28 22 PM" src="https://github.com/user-attachments/assets/dd54db0b-d783-48f1-b451-7ca3c209c496" />
-<img width="367" alt="Screenshot 2025-02-04 at 10 28 49 PM" src="https://github.com/user-attachments/assets/d7db474e-d66b-4598-8e0f-f81df7bb82bc" />
+<img width="355" alt="Screenshot 2025-02-16 at 5 33 37 PM" src="https://github.com/user-attachments/assets/80722503-8385-42ab-b449-675b45ea7995" />
+<img width="1470" alt="Screenshot 2025-02-16 at 5 33 17 PM" src="https://github.com/user-attachments/assets/ce24934e-d5af-4dc5-b4ac-536b3ae8a4de" />
